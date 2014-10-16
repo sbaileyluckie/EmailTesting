@@ -1,2 +1,3 @@
 EmailTesting
 ============
+Middleman Email Practice
